@@ -1,1 +1,1 @@
-# .OBJCOLLECTION
+#
